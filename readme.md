@@ -2,7 +2,7 @@
 
 __Author:__ Fitzroy Wang
 
-__version:__ v0.1.0
+__version:__ v0.1.1
 
 ## Introduction
 
@@ -13,6 +13,13 @@ This repository is designed for utilizing WorldQuant API. If you're interested, 
 ## Attention
 
 1. Always pay attention to your alpha expression, directory path and other parameter settings when making changes.
+
+## Update
+
+1. Add backfill function to template expression generator to process data with high missing percentage.
+2. Solve the problem of non-unique index.
+3. Add dataset and datafield information into output file, as alphas constructed from different datasets may show different features, which helps reduce product correlation.
+4. Add a record file as run log.
 
 ## Contact
 
