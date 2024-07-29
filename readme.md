@@ -2,7 +2,7 @@
 
 __Author:__ Fitzroy Wang
 
-__version:__ v0.1.1
+__Version:__ v0.1.1
 
 ## Introduction
 
@@ -24,3 +24,7 @@ This repository is designed for utilizing WorldQuant API. If you're interested, 
 ## Contact
 
 If you have any questions or concerns, please send email to 2404857128@qq.com.
+
+## Links
+
+[WorldQuant Brain Platform](https://platform.worldquantbrain.com/)

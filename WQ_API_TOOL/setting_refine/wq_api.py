@@ -148,7 +148,7 @@ def get_datafields(
     return datafields_df
 
 # Function to fetch a specific number of IS alphas (`total_alphas`) using pagination.
-def get_n_is_alphas(session, total_alphas, limit=990):
+def get_n_is_alphas(session, total_alphas, limit=100):
     fetched_alphas = []
     offset = 0
 
